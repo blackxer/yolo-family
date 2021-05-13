@@ -1,0 +1,7 @@
+classes =['person', 'vehicle']
+
+
+label_map = {
+             '人':'person',
+             '车':'vehicle',}
+
